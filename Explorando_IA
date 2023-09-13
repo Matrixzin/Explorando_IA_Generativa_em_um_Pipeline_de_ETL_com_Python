@@ -1,4 +1,5 @@
 # Utilize sua própria URL se quiser ;)
+# Esse processo foi feito no Google Colab
 # Repositório da API: https://github.com/digitalinnovationone/santander-dev-week-2023-api
 sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
 
